@@ -48,8 +48,8 @@
 		  destroy-method="close" 
 		  p:driverClassName="com.mysql.jdbc.Driver"
 		  p:url="jdbc:mysql://127.0.0.1:3306/test"
-		  p:username="root" 
-		  p:password="danny" />
+		  p:username="" 
+		  p:password="" />
 
 	<bean id="sessionFactory"
 		  class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">

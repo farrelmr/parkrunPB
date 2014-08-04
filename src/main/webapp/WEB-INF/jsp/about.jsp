@@ -110,10 +110,18 @@ code {
 	<!-- Begin page content -->
 	<div class="container marketing">
 		<div class="page-header">
-			<h1>About Us - What time could I run on another course?</h1>
+			<h1>About</h1>
 		</div>
-		<p class="lead">Enter your time and the course your ran it on, and
-			we'll predict your time on other parkrun courses</p>
+		<p class="lead">This is a demonstration app for Spring MVC.</p>
+		<p>
+			Features -
+		<ul>
+			<li>Spring MVC</li>
+			<li>Hibernate</li>
+			<li>WebJar / Bootstrap</li>
+			<li>Unit Testing - Mockito</li>
+		</ul>
+		</p>
 		<p>
 	</div>
 

@@ -1,6 +1,11 @@
 parkrunPB
 =========
 
-Spring 3 / Hibernate Demonstration App
+Spring 3 / Hibernate Demonstration App - glenware.wordpress.com
 
-Test of commit
+Features -
+
+ > Spring MVC
+ > Hibernate
+ > WebJar / Bootstrap
+ > Unit Testing - Mockito
